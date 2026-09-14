@@ -53,3 +53,18 @@ int main() {
 
     return 0;
 }
+/*
+TEST CASES:
+
+Test Case 1 - Typical:
+Input:
+()[]{}
+Expected Output:
+Valid Parentheses
+
+Test Case 2 - Edge Case:
+Input:
+([)]
+Expected Output:
+Invalid Parentheses
+*/

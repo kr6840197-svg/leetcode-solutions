@@ -33,3 +33,20 @@ int main() {
 
     return 0;
 }
+/*
+TEST CASES:
+
+Test Case 1 - Typical:
+Input:
+5
+64 34 25 12 22
+Expected Output:
+Sorted array: 12 22 25 34 64
+
+Test Case 2 - Edge Case:
+Input:
+5
+1 2 3 4 5
+Expected Output:
+Sorted array: 1 2 3 4 5
+*/

@@ -28,3 +28,22 @@ int main() {
 
     return 0;
 }
+/*
+TEST CASES:
+
+Test Case 1 - Typical:
+Input:
+4
+2 7 11 15
+9
+Expected Output:
+Indices: 0 1
+
+Test Case 2 - Edge Case:
+Input:
+2
+3 3
+6
+Expected Output:
+Indices: 0 1
+*/

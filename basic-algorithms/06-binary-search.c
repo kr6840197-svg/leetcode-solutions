@@ -43,3 +43,22 @@ int main() {
 
     return 0;
 }
+/*
+TEST CASES:
+
+Test Case 1 - Typical:
+Input:
+5
+1 3 5 7 9
+7
+Expected Output:
+Target found at index: 3
+
+Test Case 2 - Edge Case:
+Input:
+5
+1 3 5 7 9
+8
+Expected Output:
+Target not found
+*/

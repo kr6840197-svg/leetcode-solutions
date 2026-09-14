@@ -26,3 +26,18 @@ int main() {
 
     return 0;
 }
+/*
+TEST CASES:
+
+Test Case 1 - Typical:
+Input:
+Hello World
+Expected Output:
+Reversed string: dlroW olleH
+
+Test Case 2 - Edge Case:
+Input:
+A
+Expected Output:
+Reversed string: A
+*/

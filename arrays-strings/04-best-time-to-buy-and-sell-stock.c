@@ -32,3 +32,20 @@ int main() {
 
     return 0;
 }
+/*
+TEST CASES:
+
+Test Case 1 - Typical:
+Input:
+6
+7 1 5 3 6 4
+Expected Output:
+Maximum Profit: 5
+
+Test Case 2 - Edge Case:
+Input:
+5
+7 6 4 3 1
+Expected Output:
+Maximum Profit: 0
+*/

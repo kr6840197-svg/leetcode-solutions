@@ -58,3 +58,20 @@ int main() {
 
     return 0;
 }
+/*
+TEST CASES:
+
+Test Case 1 - Typical:
+Input:
+3
+flower flow flight
+Expected Output:
+Longest Common Prefix: fl
+
+Test Case 2 - Edge Case:
+Input:
+3
+dog racecar car
+Expected Output:
+Longest Common Prefix: No common prefix
+*/

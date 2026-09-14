@@ -34,3 +34,20 @@ int main() {
 
     return 0;
 }
+/*
+TEST CASES:
+
+Test Case 1 - Typical:
+Input:
+anagram
+margana
+Expected Output:
+Valid Anagram
+
+Test Case 2 - Edge Case:
+Input:
+a
+b
+Expected Output:
+Not an Anagram
+*/
