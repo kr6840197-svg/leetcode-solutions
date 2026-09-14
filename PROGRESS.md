@@ -1,16 +1,23 @@
-# LeetCode Progress
+
+# LeetCode Progress Tracker
 
 **Name:** Kusuma.R  
 **Roll Number:** R25EJ058
 
-No. | Problem | Topic | Status |
+This table tracks my LeetCode practice progress throughout the semester.
 
-| 01 | Two Sum | Arrays & Strings | Completed |
-| 02 | Reverse a String | Arrays & Strings | Completed |
-| 03 | Valid Anagram | Arrays & Strings | Completed |
-| 04 | Best Time to Buy and Sell Stock | Arrays & Strings | Completed |
-| 05 | Longest Common Prefix | Arrays & Strings | Completed|
-| 06 | Binary Search | Basic Algorithms | Completed |
-| 07 | Bubble Sort | Basic Algorithms |  Completed|
-| 08 | Valid Parentheses | Stacks |Completed  |
-| 09 | Reverse a Linked List | Linked Lists | Bonus |
+| Date | Problem | Topic | Difficulty | Status | Time Taken |
+|---|---|---|---|---|---|
+| 15/09/2026 | Two Sum | Arrays & Strings | Easy |  Solved | 12 min |
+| 15/09/2026 | Reverse String | Arrays & Strings | Easy | Solved | 10 min |
+| 15/09/2026 | Valid Anagram | Arrays & Strings | Easy |  Solved | 10 min |
+| 15/09/2026 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | Solved | 10 min |
+| 15/09/2026 | Longest Common Prefix | Arrays & Strings | Easy |  Solved | 12 min |
+| 15/09/2026 | Binary Search | Basic Algorithms | Easy | Solved | 10 min |
+| 15/09/2026 | Move Zeroes / Bubble Sort Variant | Basic Algorithms | Easy |Solved | 10 min |
+| 15/09/2026 | Valid Parentheses | Stacks | Easy | Solved | 10 min |
+| 15/09/2026 | Reverse Linked List | Linked Lists | Easy | Bonus | 10 min |
+
+## Future Updates
+
+I will update this progress tracker after every LeetCode practice session with the date, problem, topic, difficulty, status, and time taken.
